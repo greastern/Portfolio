@@ -15,7 +15,7 @@ const LogoBox = styled.span'
 
 &:hover img {
         transform: rotate(20deg);
-}'
+}';
 
 const Logo = () => {
         const footPrintImg = '/images/footprint${useColorModeValue('', '-dark)}.png'
